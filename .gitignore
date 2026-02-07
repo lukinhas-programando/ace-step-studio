@@ -1,0 +1,50 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local app data/state
+data/
+backend/data/
+backend/app/data/
+*.db
+*.sqlite
+*.sqlite3
+runtime_config.json
+
+# Generated media
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Env/secrets
+.env
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Logs
+*.log
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
+# Optional local model drop area
+models/
